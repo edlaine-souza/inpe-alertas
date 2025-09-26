@@ -1,1 +1,3 @@
-const NOME_APP = "Monitor Climatico INPE";
+const NOME_APP = "Monitor Climático INPE";
+teste %%
+
