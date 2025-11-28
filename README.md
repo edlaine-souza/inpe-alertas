@@ -7,3 +7,6 @@ Na Branch main foi realizado até o exercício 8.
 
 # Branch Feature/Segurança
 Nessa Branch foi implementada os exercícios da atividade 9.
+
+# Branch Feature-aula10
+Nessa Branch foi implementada a pasta com os exercicios da atividade10.
